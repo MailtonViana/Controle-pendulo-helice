@@ -1,6 +1,7 @@
 # Controle-pendulo-helice
 Projeto desenvolvido na disciplina de Sistemas de Controle, onde o objetivo era controlar a posição através de um ângulo de entrada de um pêndulo com uma hélice na ponta.
 Controle de Posição de um Sistema Pêndulo-Hélice
+
 •	Objetivo Geral
 Implementar um controlador PID embarcado num Arduino para o problema do controle da posição angular de um pêndulo atuado por uma hélice.
 
